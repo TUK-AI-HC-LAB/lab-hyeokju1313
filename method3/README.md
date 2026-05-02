@@ -1,1 +1,2 @@
-# Extracting Prompts by Inverting LLM Outputs(output2prompt)
+# Extracting Prompts by Inverting LLM Outputs
+## aka output2prompt
